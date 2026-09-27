@@ -43,6 +43,6 @@ variable tags {
 variable "subscription_id" {
     description = "The Azure subscription ID"
     type        = string
-    default     = "f55666bf-f417-40d5-80f5-a5c2495948d0"
+    default     = ""
     sensitive   = true
 }
